@@ -1,0 +1,142 @@
+.logo > img {
+    width: 10%;
+
+}
+body {
+    display: grid;
+    width: 100%;
+    margin: 50px;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+#header div{
+   display: flex;
+   flex-direction: column;
+
+   justify-content: center;
+   
+   
+    
+}
+
+
+.grid-container {
+    display: flex;
+    flex-direction: column;
+   
+    
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-size: contain;
+    margin: 20px;
+    font-size: 20px;
+    font-weight:bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 5px;
+}
+#grid-item1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(pic01.jpg);
+    width: 353px;
+    height: 326px;
+}
+#grid-item2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(pic02.jpg);
+    width: 353px;
+    height: 326px;
+}
+#grid-item3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(pic03.jpg);
+    width: 353px;
+    height: 326px;
+} 
+#grid-item4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(pic04.jpg);
+    width: 353px;
+    height: 326px;
+}
+#grid-item5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(pic05.jpg);
+    width: 353px;
+    height: 326px;
+}
+#grid-item6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(pic06.jpg);
+    width: 353px;
+    height: 326px;
+}
+#grid-item7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(pic07.jpg);
+    width: 353px;
+    height: 326px;
+}
+#grid-item8 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(pic08.jpg);
+    width: 353px;
+    height: 326px;
+}
+#grid-item9 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(pic09.jpg);
+    width: 353px;
+    height: 326px;
+}
+#grid-item10 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(pic10.jpg);
+    width: 353px;
+    height: 326px;
+}
+#grid-item11 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(pic11.jpg);
+    width: 353px;
+    height: 326px;
+}
+#grid-item12 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(pic12.jpg);
+    width: 353px;
+    height: 326px;
+} 
+/*
+
+}
+#grid-item1 {
+    background-image: url(pic01.jpg);
+    background-size: contain;
